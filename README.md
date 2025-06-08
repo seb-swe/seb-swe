@@ -30,6 +30,11 @@ I am a second-year Computer Science student with practical experience in IT supp
 - [osTicket - Prerequisites and Installation](https://github.com/seb-swe/osticket-prereqs)  
   Detailed documentation of prerequisites and installation of osTicket on a Windows IIS server within an Azure VM. Demonstrates environment setup, software dependencies, and deployment best practices.
 
+- [IT Environment in Azure Domain Services and Support Tools](https://github.com/seb-swe/Entry-Level-IT-Environment-in-Azure-Domain-Services-and-Support-Tools)  
+  Demonstrates the deployment and configuration of a Windows Active Directory domain environment using Azure virtual machines, including domain setup, Group Policy management, user roles, shared resources, and troubleshooting.
+
+
+
 
 ---
 
